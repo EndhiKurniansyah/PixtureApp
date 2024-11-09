@@ -6,7 +6,7 @@ export default function TabLayout() {
     <Tabs
       screenOptions={{
         tabBarActiveTintColor: '#FFFFFF',
-        tabBarInactiveTintColor: '#9DC183',
+        tabBarInactiveTintColor: '#6A9C89',
         headerShown: false, // Hide the header
         tabBarStyle: {
           position: 'absolute',
@@ -16,7 +16,7 @@ export default function TabLayout() {
           height: 70,
           paddingBottom: 10,
           paddingTop: 5,
-          backgroundColor: '#006400',
+          backgroundColor: '#16423C',
           borderRadius: 20,
         },
       }}
